@@ -13,6 +13,7 @@ Preprocess the data, which may involve cleaning, handling missing values, and en
 2.**Data Splitting**:
 
 Split the dataset into training and testing subsets. Typically, you might use 70-80% of the data for training and the remaining 20-30% for testing.
+
 3. **Feature Selection**:
 
 Identify the most important features or variables that are likely to impact financial access. Random Forest can handle a large number of features, but feature selection can improve model efficiency.
@@ -44,7 +45,9 @@ Interpret the model's results to gain insights into the factors influencing fina
 If the model provides valuable insights, consider deploying it for ongoing monitoring and decision-making. This model is deployed using Flask API.
 
 
+
 ###Insights
+
 
 1. **Digital Financial Services Are on the Rise**: The shift towards non-traditional platforms like mobile money and internet banking signifies a significant increase in the use of digital financial services. This trend is a response to the convenience and accessibility offered by these digital channels.
 
